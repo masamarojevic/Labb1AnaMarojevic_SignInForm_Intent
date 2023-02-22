@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lektion_3</string>
+    <string name="Button">Button</string>
+    <string name="TextView">TextView</string>
+
+    <string name="ButtonSignIn">SIGN IN</string>
+</resources>

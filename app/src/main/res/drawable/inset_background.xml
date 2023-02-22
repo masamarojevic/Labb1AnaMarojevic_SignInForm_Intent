@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:drawable="@drawable/bonbon_pink_trash_bin_with_recycling_icon"
+    android:insetRight="40dip"
+    android:insetLeft="40dip"
+    android:insetBottom="200dip"
+    android:insetTop="150dip"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
